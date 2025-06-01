@@ -1,7 +1,7 @@
 <h1 align="center"> MISLEADER: Defending against Model Extraction with Ensembles of Distilled Models </h1>
 
 # Introduction
-This is the open-source code for NeurIPS'25 submission MISLEADER: Defending against Model Extraction with Ensembles of Distilled Models
+This is the open-source code for our paper **MISLEADER: Defending against Model Extraction with Ensembles of Distilled Models**
 
 ## 📦 Package Requirements
 
